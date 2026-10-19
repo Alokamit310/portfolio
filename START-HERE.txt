@@ -1,0 +1,7 @@
+Open index.html to preview, or run: python -m http.server 5500
+Visit http://localhost:5500
+
+GitHub Pages: upload index.html, styles.css, script.js and assets at repository root.
+Settings > Pages > Deploy from branch > main > / (root).
+
+Keep these files together. No npm or build step is required.
